@@ -78,7 +78,7 @@ README.md: Project documentation (this file).
 
 📬 Contact:
 
-For more details, reach out via LinkedIn or email at manthan.nimbalkar@example.com.
+For more details, reach out via LinkedIn or email at manthannimbalkardsda@gmail.com.
 
 # CallCenter-Analytics-Dashboard
 Call Center Management and Analytics
