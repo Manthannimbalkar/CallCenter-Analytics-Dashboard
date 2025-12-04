@@ -1,21 +1,17 @@
 📞 Call Center Management and Analytics
 
 🗓 Project Duration:
-
 November 2024
 
 💼 Associated With:
-
 ProNeta Tech (OPC) Pvt Ltd
 
 📊 Project Overview:
-
 This project focused on streamlining call center operations and enhancing campaign efficiency by leveraging data-driven insights. The aim was to manage call campaigns effectively, monitor agent performance, and provide actionable metrics for decision-making.
 
 🎯 Key Features:
 
 1. Efficient Workflow Management
-
 Assigned call campaigns to agents, ensuring tasks were distributed evenly for optimal performance.
 
 2. Power BI Dashboard
